@@ -1,0 +1,51 @@
+body { background-color: #90A955;}  
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+.header{width: 100%;
+background-image: linear-gradient(to right, #132A13, #31572C);
+}
+
+.carousel-item {
+
+  height:39rem;
+  background: #000;
+  color: white;
+  position: relative;
+  margin-bottom: 0;
+  
+  
+}
+
+.container2 {
+
+  position:absolute;
+  text-align: center;
+  bottom: 0;
+  left:0;
+  right:0; 
+  /* padding-left: 500px;
+  padding-right: 50px; */
+  padding-bottom: 100px;
+}
+
+.overlay-image {
+
+    position:absolute;
+    bottom: 0;
+    left:0;
+    right:0;
+    top:0;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.5;
+}
+
+.formsec {
+
+background-color: #4F772D;
+width: 100%;
+
+
+}
+
+
