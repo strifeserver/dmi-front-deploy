@@ -68,6 +68,15 @@ include 'navbar.php';
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-7 mt-3">
+                <div class="card" style=" color: black;">
+                        <div class="card-body">
+                           <div id="customer_survey_area">
+                            
+                           </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

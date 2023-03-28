@@ -89,6 +89,10 @@
                             <input type="tel" class="form-control" id="datepicker"
                                 name="requested_schedule">
                         </div>
+                        <label for="requested_schedule" class="form-label">Upload Files (Hold CTRL to select multiple files)</label>
+                        <div class="mb-4 input-group">
+                            <input type="file" name="customer_survey_files[]" multiple>
+                        </div>
 
                         <div class="my-4 mb-4 text-center">
                             <button type="submit" class="btn btn-success btn-lg">Submit</button>

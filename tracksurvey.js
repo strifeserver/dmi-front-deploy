@@ -17,6 +17,22 @@ function sendFormData(formData) {
       $("#mobile_number").html(response.result.mobile_number);
       $('#requested_schedule').html(response.result.schedule);
       $("#status").html(response.result.status);
+      const customerSurveyFiles = response.result.customer_survey_files
+      $.each(customerSurveyFiles, function(index, url) {
+        const filename = url.split('/').pop();
+        $('#customer_survey_area').append(
+          $('<p>').addClass('card-text').append(
+            $('<span>').text('Download Link: '),
+            $('<a>').attr({
+              href: url,
+              target: '_blank'
+            }).text(filename)
+          )
+        );
+      });
+      
+
+      console.log(response.result)
     },
     error: function (xhr, status, error) {
       Swal.fire({
