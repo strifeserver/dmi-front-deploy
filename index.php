@@ -48,31 +48,31 @@ include 'navbar.php';
             <div class="carousel-item active" >
               <div class="overlay-image" style="background-image:url(./homepage-images/dmi1.jpg);"></div>
                 <div class="container2">
-                  <h1>Example Headline</h1>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus omnis eaque sint, tenetur asperiores aspernatur.</p>
-                  <a href="#" class="btn btn-lg btn-primary">
-                    Sign up today
-                  </a>
+                  <h1>Services</h1>
+                    <p>We are offering different services that is connected in land surveying. Click learn more to see services.</p>
+                    <a href="#" class="btn btn-lg btn-primary">
+                      Learn More
+                    </a>
                 </div>
             </div>
             <div class="carousel-item active">
               <div class="overlay-image" style="background-image:url(./homepage-images/dmi2.jpg);"></div>
               <div class="container2">
-                <h1>Example Headline</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus omnis eaque sint, tenetur asperiores aspernatur.</p>
-                <a href="#" class="btn btn-lg btn-primary">
-                  Sign up today
-                </a>
+              <h1>Contacts</h1>
+                  <p>If you have questions and inquiries you can contact us by clicking the button below</p>
+                  <a href="#" class="btn btn-lg btn-primary">
+                    Contact
+                  </a>
               </div>
             </div>
             <div class="carousel-item active">
               <div class="overlay-image" style="background-image:url(./homepage-images/dmi3.jpg);"></div>
               <div class="container2">
-                <h1>Example Headline</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus omnis eaque sint, tenetur asperiores aspernatur.</p>
-                <a href="#" class="btn btn-lg btn-primary">
-                  Sign up today
-                </a>
+              <h1>Welcome to DMI Surveying Website</h1>
+                  <p>We are here to accomodate your needs. Click sign up to start.</p>
+                  <a href="#" class="btn btn-lg btn-primary">
+                    Sign up today
+                  </a>
               </div>
           </div>
       </div>
