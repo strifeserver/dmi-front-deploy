@@ -46,7 +46,7 @@ include 'navbar.php';
       </ol>
       <div class="carousel-inner">
             <div class="carousel-item active" >
-              <div class="overlay-image" style="background-image:url(./homepage-images/survey2.jpg);"></div>
+              <div class="overlay-image" style="background-image:url(./homepage-images/dmi1.jpg);"></div>
                 <div class="container2">
                   <h1>Example Headline</h1>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus omnis eaque sint, tenetur asperiores aspernatur.</p>
@@ -56,7 +56,7 @@ include 'navbar.php';
                 </div>
             </div>
             <div class="carousel-item active">
-              <div class="overlay-image" style="background-image:url(./homepage-images/survey1.jpg);"></div>
+              <div class="overlay-image" style="background-image:url(./homepage-images/dmi2.jpg);"></div>
               <div class="container2">
                 <h1>Example Headline</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus omnis eaque sint, tenetur asperiores aspernatur.</p>
@@ -66,7 +66,7 @@ include 'navbar.php';
               </div>
             </div>
             <div class="carousel-item active">
-              <div class="overlay-image" style="background-image:url(./homepage-images/survey3.jpg);"></div>
+              <div class="overlay-image" style="background-image:url(./homepage-images/dmi3.jpg);"></div>
               <div class="container2">
                 <h1>Example Headline</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus omnis eaque sint, tenetur asperiores aspernatur.</p>
